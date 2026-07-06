@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋, I'm Secondee Samuel Alfa
 
-<!--
-**secondeesamuelalfa/secondeesamuelalfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at the **American University of Nigeria (AUN)** with a passion for building responsive, user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving problems, and building projects that improve my skills as a developer.
+
+---
+
+## 🚀 Currently Learning
+
+- 🌐 HTML5 & CSS3
+- 🐍 Python
+- ☕ JavaScript
+- 🌱 Git & GitHub
+
+---
+
+## 🏆 Certifications
+
+- ✅ freeCodeCamp Legacy Responsive Web Design V8 (98%)
+
+---
+
+## 💻 Technologies & Tools
+
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 🎯 Goals
+
+- Build a strong software engineering portfolio
+- Complete the freeCodeCamp JavaScript certification
+- Learn React
+- Build full-stack applications
+- Secure a software engineering internship
+
+---
+
+## 📂 Featured Repository
+
+- 🌐 Responsive Web Design Projects
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/secondeesamuelalfa
+
+---
+
+> *"Success comes from consistent learning and building."* 🚀
