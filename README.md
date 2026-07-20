@@ -33,7 +33,7 @@ I believe in learning by building, and I focus on writing clean, documented, and
 
 - 📝 **[Markdown to HTML Converter](https://github.com/secondeesamuelalfa/markdown-to-html-converter)** 
   - *A real-time web tool that parses Markdown syntax into HTML, featuring live preview and clipboard functionality.* 
-  - 🔗 **Live Demo:** `[Insert your GitHub Pages link here]`
+  - 🔗 **Live Demo:** https://secondeesamuelalfa.github.io/markdown-to-html-converter/
 
 - ✂️ **[Rock, Paper, Scissors Game](https://github.com/secondeesamuelalfa/rock-paper-scissors-game)** 
   - *An interactive browser game with AI opponent, score tracking, and dynamic UI updates.*
