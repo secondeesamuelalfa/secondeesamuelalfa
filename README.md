@@ -1,58 +1,71 @@
-# Hi there 👋, I'm Secondee Samuel Alfa
+# 👋 Hi there, I'm Secondee Samuel Alfa
 
 ## 🎓 About Me
+I'm a 200L Software Engineering student at the **American University of Nigeria (AUN)** with a passion for building responsive, user-friendly web applications. I am actively developing my skills to become a Full-Stack Developer and am seeking **remote software engineering internship opportunities** with global teams.
 
-I'm a Software Engineering student at the **American University of Nigeria (AUN)** with a passion for building responsive, user-friendly web applications.
-
-I enjoy learning new technologies, solving problems, and building projects that improve my skills as a developer.
+I believe in learning by building, and I focus on writing clean, documented, and production-ready code.
 
 ---
 
-## 🚀 Currently Learning
-
-- 🌐 HTML5 & CSS3
-- 🐍 Python
-- ☕ JavaScript
-- 🌱 Git & GitHub
+## 🚀 Currently Leveling Up
+- ⚡ **Advanced JavaScript (ES6+)**: DOM manipulation, Async/Await, and APIs
+- ⚛️ **React.js**: Building component-based user interfaces *(Next)*
+- ⚙️ **Backend Development**: Node.js & Express *(Next)*
+- 🗄️ **Databases**: PostgreSQL & MongoDB fundamentals
 
 ---
 
 ## 🏆 Certifications
-
-- ✅ freeCodeCamp Legacy Responsive Web Design V8 (98%)
+- ✅ **freeCodeCamp**: Responsive Web Design Certification (98%)
+- 🔄 **In Progress**: JavaScript Algorithms and Data Structures
 
 ---
 
 ## 💻 Technologies & Tools
+- **Frontend**: HTML5, CSS3 (Flexbox/Grid), Vanilla JavaScript
+- **Version Control**: Git, GitHub, GitHub Desktop
+- **Deployment**: GitHub Pages, Netlify
+- **Development**: VS Code, Chrome DevTools
 
-- HTML5
-- CSS3
-- Git
-- GitHub
-- Visual Studio Code
+---
+
+## 🌟 Featured Projects
+
+- 📝 **[Markdown to HTML Converter](https://github.com/secondeesamuelalfa/markdown-to-html-converter)** 
+  - *A real-time web tool that parses Markdown syntax into HTML, featuring live preview and clipboard functionality.* 
+  - 🔗 **Live Demo:** `[Insert your GitHub Pages link here]`
+
+- ✂️ **[Rock, Paper, Scissors Game](https://github.com/secondeesamuelalfa/rock-paper-scissors-game)** 
+  - *An interactive browser game with AI opponent, score tracking, and dynamic UI updates.*
+  - 🔗 **Live Demo:** https://secondeesamuelalfa.github.io/rock-paper-scissors-game/
+
+- 🌐 **[Responsive Web Design Projects](https://github.com/secondeesamuelalfa/responsive-web-design)**
+  - *A collection of responsive layouts and components built during my freeCodeCamp certification.*
 
 ---
 
 ## 🎯 Goals
-
-- Build a strong software engineering portfolio
-- Complete the freeCodeCamp JavaScript certification
-- Learn React
-- Build full-stack applications
-- Secure a software engineering internship
+- [ ] Secure a **full-time remote Software Engineering role** with a global company outside Nigeria
+- [ ] Land a **remote software engineering internship** to gain international industry experience
+- [ ] Complete the freeCodeCamp JavaScript Algorithms & Frontend Libraries certifications
+- [ ] Make my first meaningful contribution to an **open-source project**
+- [ ] Build and deploy a full-stack MERN (MongoDB, Express, React, Node) application from scratch
 
 ---
 
-## 📂 Featured Repository
-
-- 🌐 Responsive Web Design Projects
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=secondeesamuelalfa&show_icons=true&theme=radical&hide_border=true" alt="Secondee's GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=secondeesamuelalfa&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+</div>
 
 ---
 
 ## 📫 Connect with Me
-
-- GitHub: https://github.com/secondeesamuelalfa
+I am always open to discussing web development, remote work, and new opportunities!
+- 📧 **Email**: [secondeesamuel@gmail.com]
+- 🐙 **GitHub**: https://github.com/secondeesamuelalfa
 
 ---
 
-> *"Success comes from consistent learning and building."* 🚀
+> *"Success comes from consistent learning, building, and shipping."* 🚀
