@@ -3,7 +3,7 @@
 ## 🎓 About Me
 I'm a 200L Software Engineering student at the **American University of Nigeria (AUN)** with a passion for building responsive, user-friendly web applications. I am actively developing my skills to become a Full-Stack Developer and am seeking **remote software engineering internship opportunities** with global teams.
 
-I believe in learning by building, and I focus on writing clean, documented, and production-ready code.
+I believe in learning by building, and I focus on writing clean, documented,production-ready code and growing a communinty.
 
 ---
 
