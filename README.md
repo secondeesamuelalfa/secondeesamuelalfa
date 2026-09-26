@@ -17,7 +17,7 @@ I believe in learning by building, and I focus on writing clean, documented,prod
 
 ## 🏆 Certifications
 - ✅ **freeCodeCamp**: Responsive Web Design Certification (98%)
-- 🔄 **In Progress**: JavaScript Algorithms and Data Structures
+
 
 ---
 
