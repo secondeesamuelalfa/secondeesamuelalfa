@@ -9,8 +9,8 @@ I believe in learning by building, and I focus on writing clean, documented,prod
 
 ## 🚀 Currently Leveling Up
 - ⚡ **Advanced JavaScript (ES6+)**: DOM manipulation, Async/Await, and APIs
-- ⚛️ **React.js**: Building component-based user interfaces *(Next)*
-- ⚙️ **Backend Development**: Node.js & Express *(Next)*
+- ⚛️ **React.js**: Building component-based user interfaces
+- ⚙️ **Backend Development**: Node.js & Express
 - 🗄️ **Databases**: PostgreSQL & MongoDB fundamentals and MySQL
 
 ---
