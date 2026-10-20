@@ -25,7 +25,7 @@ I believe in learning by building, and I focus on writing clean, documented,prod
 - **Frontend**: HTML5, CSS3 (Flexbox/Grid), Vanilla JavaScript
 - **Version Control**: Git, GitHub, GitHub Desktop
 - **Deployment**: GitHub Pages, Netlify
-- **Development**: VS Code, Chrome DevTools
+- **Development**: VS Code, Chrome DevTools.
 
 ---
 
