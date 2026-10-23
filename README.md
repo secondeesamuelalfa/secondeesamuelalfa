@@ -62,7 +62,7 @@ I believe in learning by building, and I focus on writing clean, documented,prod
 ---
 
 ## 📫 Connect with Me
-I am always open to discussing web development, remote work, and new opportunities!
+I am always open to discussing web development, remote work, and new opportunities.
 - 📧 **Email**: [secondeesamuel@gmail.com]
 - 🐙 **GitHub**: https://github.com/secondeesamuelalfa
 
